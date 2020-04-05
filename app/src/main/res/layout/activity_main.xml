@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageButton
+        android:id="@+id/ib_b"
+        android:src="@drawable/b"
+        style="@style/ImageButton_style"
+        />
+
+    <ImageButton
+        android:id="@+id/ib_c"
+        android:src="@drawable/c"
+        style="@style/ImageButton_style"
+        />
+
+    <ImageButton
+        android:id="@+id/ib_d"
+        android:src="@drawable/d"
+        style="@style/ImageButton_style"
+        />
+
+    <ImageButton
+        android:id="@+id/ib_e"
+        android:src="@drawable/e"
+        style="@style/ImageButton_style"
+        />
+
+    <ImageButton
+        android:id="@+id/ib_f"
+        android:src="@drawable/f"
+        style="@style/ImageButton_style"
+        />
+
+    <ImageButton
+        android:id="@+id/ib_g"
+        android:src="@drawable/g"
+        style="@style/ImageButton_style"
+        />
+
+    <ImageButton
+        android:id="@+id/ib_h"
+        android:src="@drawable/h"
+        style="@style/ImageButton_style"
+        />
+
+    <ImageButton
+        android:id="@+id/ib_a"
+        android:src="@drawable/a"
+        style="@style/ImageButton_style"
+        />
+
+</RelativeLayout>
